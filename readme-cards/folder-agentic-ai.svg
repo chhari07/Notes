@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="190" viewBox="0 0 400 190">
+<defs><filter id="sagentic-ai" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#000" flood-opacity="0.10"/></filter>
+<linearGradient id="bagentic-ai" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c47ae8"/><stop offset="1" stop-color="#a855e0"/></linearGradient>
+<linearGradient id="fagentic-ai" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c47ae8" stop-opacity="0.92"/><stop offset="1" stop-color="#a855e0"/></linearGradient></defs>
+<g filter="url(#sagentic-ai)">
+<path d="M16 36 q0 -22 22 -22 h96 q12 0 20 9 l10 11 h198 q22 0 22 22 v92 q0 22 -22 22 h-324 q-22 0 -22 -22 z" fill="url(#bagentic-ai)"/>
+<g transform="translate(46,34) rotate(-3)"><rect width="110" height="90" rx="10" fill="#fff" opacity="0.9"/><rect x="14" y="18" width="70" height="6" rx="3" fill="#e5e5ea"/><rect x="14" y="32" width="50" height="6" rx="3" fill="#ececf0"/><rect x="14" y="46" width="60" height="6" rx="3" fill="#ececf0"/></g><g transform="translate(128,30) rotate(-1)"><rect width="120" height="90" rx="10" fill="#fff" opacity="0.95"/><rect x="14" y="18" width="80" height="6" rx="3" fill="#e5e5ea"/><rect x="14" y="32" width="60" height="6" rx="3" fill="#ececf0"/><rect x="14" y="46" width="70" height="6" rx="3" fill="#ececf0"/></g><g transform="translate(214,28) rotate(1)"><rect width="130" height="90" rx="10" fill="#fff" opacity="1"/><rect x="14" y="18" width="90" height="6" rx="3" fill="#e5e5ea"/><rect x="14" y="32" width="70" height="6" rx="3" fill="#ececf0"/><rect x="14" y="46" width="80" height="6" rx="3" fill="#ececf0"/></g>
+<path d="M16 96 h368 v52 q0 22 -22 22 h-324 q-22 0 -22 -22 z" fill="url(#fagentic-ai)"/>
+<rect x="16" y="96" width="368" height="1.5" fill="#fff" opacity="0.35"/>
+</g>
+<text x="38" y="132" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" font-weight="600" fill="#fff">Agentic AI</text>
+<text x="38" y="156" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#fff" opacity="0.85">11 notes</text>
+<circle cx="340" cy="124" r="2.6" fill="#fff"/><circle cx="348" cy="124" r="2.6" fill="#fff"/><circle cx="356" cy="124" r="2.6" fill="#fff"/>
+</svg>

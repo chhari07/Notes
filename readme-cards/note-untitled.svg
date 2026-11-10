@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="150" viewBox="0 0 400 150">
+<defs><filter id="snote-untitled" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="6" stdDeviation="9" flood-color="#000" flood-opacity="0.10"/></filter></defs>
+<rect x="16" y="12" width="368" height="116" rx="24" fill="#fff" stroke="#ececf0" filter="url(#snote-untitled)"/>
+<text x="38" y="56" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#1c1c1e">Untitled</text>
+<text x="38" y="106" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.2" fill="#8e8e93">TODAY</text>
+<circle cx="340" cy="101" r="2.6" fill="#8e8e93"/><circle cx="348" cy="101" r="2.6" fill="#8e8e93"/><circle cx="356" cy="101" r="2.6" fill="#8e8e93"/>
+</svg>
